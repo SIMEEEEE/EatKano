@@ -1,9 +1,6 @@
 {
   "lang": "zh",
   "start": "点击开始",
-  "normal": "普通模式",
-  "endless": "无尽模式",
-  "practice": "练习模式",
   "title": "标题",
   "time": "时间",
   "key": "按键",
